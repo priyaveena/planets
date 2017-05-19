@@ -6,4 +6,8 @@ And I am going to sign up to be one of the first to go to Mars heletn
 And I am going to sign up to be one of the first to go to Mars 
 
 I wonder what it is to be an astronaut
+<<<<<<< HEAD
 >>>>>>> e4eb80bc63c973c38cc9559b74240729a7e79538
+=======
+I wonder when can human being fly to mars. -zhigang
+>>>>>>> 58e963e6c4761a18dc4cfdbbd4e2186c5a934a54
