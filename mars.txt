@@ -1,3 +1,9 @@
 I want to visit Mars!
 And i would love to join the Mars Mission at NASA 
+<<<<<<< HEAD
 And I am going to sign up to be one of the first to go to Mars heletn
+=======
+And I am going to sign up to be one of the first to go to Mars 
+
+I wonder what it is to be an astronaut
+>>>>>>> e4eb80bc63c973c38cc9559b74240729a7e79538
