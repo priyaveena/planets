@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Visiting jupiter as well nowhelen
+=======
+Visiting jupiter as well now
+add line2 by zhigang
+>>>>>>> 81ec02d46caeae293657bdf19cd7b6bf31e84df0
